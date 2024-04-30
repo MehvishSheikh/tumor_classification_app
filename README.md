@@ -9,3 +9,8 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+
+![signuppage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/e8fe24ca-5af0-4052-855a-423c22c5cf4f)
+![entrypage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/0272bcac-8b63-4cc4-8363-33b2a46b58a7)
+
