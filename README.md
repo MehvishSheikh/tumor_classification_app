@@ -12,6 +12,8 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 ![mrientrypage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/a627ea05-0d91-4579-9823-c98af4dfe43e)
 ![signup](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/5c1dd8f9-6af1-4991-bd42-a2579bc6efce)
 ![login](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/2608d43e-cd2d-452b-988d-a6f7adcf10cf)
+![userdetqailspage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/933f6040-be24-4f74-b049-59efc0e471c6)
+
 
 ![navigation](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/4574d52e-cbd6-420b-abb9-1b906d4683f6)
 ![tumor_classes](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/0948e7a0-83af-40cc-9ae5-3009e09dbd8c)
