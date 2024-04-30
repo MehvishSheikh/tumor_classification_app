@@ -11,6 +11,10 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
 
-![signuppage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/e8fe24ca-5af0-4052-855a-423c22c5cf4f)
-![entrypage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/0272bcac-8b63-4cc4-8363-33b2a46b58a7)
-
+![entrypage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/c967cd69-339e-418e-b85f-ede15534c724)
+![signuppage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/cf8e168d-915a-4bd0-82b5-215115784769)
+![loginpage](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/d607a968-d4fa-4e95-ac59-0ada49bd1ea7)
+![home_userinfo](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/f2e7cf00-a0d3-47bd-b7fc-cad0d13b085d)
+![navigation bar](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/d1a445ae-7d56-4e48-ae91-1e25107bedd5)
+![details](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/74ff672b-6bc0-4f56-9022-5cea47b26e2d)
+![scanner](https://github.com/MehvishSheikh/tumor_classification_app/assets/130210811/61064747-4e1b-4f0c-ba25-adc1ef15911f)
